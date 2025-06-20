@@ -1,5 +1,28 @@
-# 💫 About Me:
-Currently working on Machine Learning<br>
+
+# 👋 Hi, I'm Rajeev Kumar!
+
+Welcome to my GitHub!  
+I'm an aspiring Data Analyst passionate about transforming raw data into actionable insights and strategic decisions. Here, you'll find my journey in Data Science, hands-on projects, and the tools that fuel my curiosity.
+
+---
+
+## 🚀 About Me
+
+- 🎓 **Education:** B.Tech in Computer Science (Data Science)
+- 💼 **Aspiring:** Data Analyst / Data Scientist
+- 🌟 **Mission:** Turning complex data into simple, impactful stories.
+- 🏫 **College:** Noida Institute of Engineering and technology
+
+---
+
+## 🛠️ Key Skills
+
+- **Programming:** Python, SQL, Java
+- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+- **Databases:** MySQL, MongoDB
+- **Analytics:** Machine Learning, Statistical Analysis, Data Mining
+- **Business Tools:** Advanced Excel, Google Analytics, DAX
+- **Other:** AWS, Git/GitHub, Jupyter Notebook
 
 
 # 💻 Tech Stack:
